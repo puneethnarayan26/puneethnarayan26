@@ -1,5 +1,5 @@
 - 👋 Hi, I’m puneethnarayan
-- 👀 I’m interested in anime
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning c++,java
 - 📫 How to reach me :- mm5993@srmist.edu.in
 
